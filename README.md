@@ -1,5 +1,5 @@
 
-- # Isaac - Data Scientist & Full Stack Developer
+- # Isaac - Data Scientist & Software Engineer
 
 👋 Hiya ! I'm  @isaac-data-alchemy, a Data Scientist/Analyst with a background in full stack development.
 

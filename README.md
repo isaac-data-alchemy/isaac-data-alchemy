@@ -1,7 +1,7 @@
 
 - # Isaac - Data Scientist & Software Engineer
 
-👋 Hiya ! I'm  @isaac-data-alchemy, a Data Scientist/Analyst with a background in full stack development.
+👋 Hiya ! I'm  @isaac-data-alchemy, a Data Scientist and  Software Engineer.
 
 - 🌱 I’m currently learning RAG, Elastic Search, NLP
 - 💞️ I’m looking to collaborate on ...

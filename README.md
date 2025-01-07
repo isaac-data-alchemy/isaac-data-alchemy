@@ -1,5 +1,5 @@
 
-- # Isaac - Data Scientist & Software Engineer
+- # Data Scientist & Software Engineer
 
 👋 Hiya ! I'm  @isaac-data-alchemy, a Data Scientist and  Software Engineer.
 

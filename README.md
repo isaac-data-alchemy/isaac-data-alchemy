@@ -13,8 +13,8 @@
 
 - **Backend**: Django, Django REST Framework
 - **Frontend**: HTML, CSS, Vanilla JavaScript
-- **Data Science**: Pandas, Matplotlib, Numpy 
-- **Database**: SQL, ElasticSearch
+- **Data Science**: Pandas, Matplotlib, Numpy, TensorFlow 
+- **Database**: SQL, ElasticSearch, Postgres
 - **Data Visualization**: Streamlit
 
 ## 💼 What I Do
@@ -31,11 +31,11 @@ I specialize in building data-driven web applications and performing in-depth da
 
 ## 🌟 Projects
 
-[You can add links to your top projects here once you have them on GitHub]
+
 
 ## 📫 How to Reach Me
 
-[ejimoforsystemtech123@gmail.com]
+[ejimoforsystemtech123@gmail.com, ejimoforisaac26@gmail.com]
 
 ---
 
